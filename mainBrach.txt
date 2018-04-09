@@ -1,8 +1,7 @@
 class Point{
 public£º
-        Point(double _x, double _y): x(_x), y(_y){}
-        Point() = defualt;
-	SetX(double _x)
+    Point(double _x, double _y): x(_x), y(_y){}
+    Point() = defualt;	SetX(double _x)
 	{
 
 		x = _x;
